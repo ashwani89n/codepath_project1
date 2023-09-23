@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/ashwani89n/web102_prework/blob/main/Ashwani_CommunityBoard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ashwani89n/codepath_project1/blob/main/Ashwani_CommunityBoard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Licecap Tool
 
